@@ -313,3 +313,21 @@ nav{
     background-color: gray;
     transition: 0.2s;
 }
+.textarea{
+    width: 30%;
+    height: 25%;
+    margin: 20px;
+    color: white;
+    font-size: larger;
+    background-color: grey;
+
+}
+.textbutton{
+    margin-top: 20vh;
+    height: 3vh;
+    width: 5vh;
+    background: orangered;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+}
